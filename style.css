@@ -1,0 +1,37 @@
+/* .container {
+	display: grid;
+	grid-template-areas: 
+		"header header"
+		"content1 side"
+		"content2 side"
+		"footer footer";
+	grid-gap: 8px;
+	grid-template-columns: auto auto;
+	grid-template-rows: 1fr 2fr 2fr 1fr;
+} */
+
+/* #side {
+	grid-area: side;
+  background-color: red;
+}
+#Intro {
+	grid-area: content1;
+  background-color: yellow;
+}
+#CookingSection {
+	grid-area: content2;
+  background-color: pink;
+}
+footer {
+	grid-area: footer;
+  background-color: lightblue;
+}
+.listContainer {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	justify-content: center;
+} */
+.listItem{
+	list-style-type: none;
+}
